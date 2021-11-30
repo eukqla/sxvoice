@@ -1,0 +1,5 @@
+pip install SpeechRecognition
+pip install DateTime
+pip install pycopy-webbrowser
+pip install gTTS
+pip install playsound
